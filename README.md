@@ -22,3 +22,18 @@
     <div align= "center">  </div> 
     </div>
     
+<br>
+
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+        🐾 GitAnimals
+    </h2>
+    <br>
+    <a href="https://github.com/git-goods/gitanimals">
+        <img
+            src="https://render.gitanimals.org/farms/%7Bsohyuunii%7D"
+            alt="GitAnimals"
+            width="600"
+        />
+    </a>
+</div>
