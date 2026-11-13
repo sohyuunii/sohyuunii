@@ -31,7 +31,7 @@
     <br>
     <a href="https://github.com/git-goods/gitanimals">
         <img
-            src="https://render.gitanimals.org/farms/%7Bsohyuunii%7D"
+            src="https://render.gitanimals.org/farms/sohyuunii"
             alt="GitAnimals"
             width="600"
         />
